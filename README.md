@@ -11,7 +11,7 @@ I am a **Computer Science graduate (Honours, 4.0 GPA)** specializing in **Artifi
 | :--- | :--- |
 | 🔭 **Building** | **Context-aware AI pipelines** (Document AI, OCR, Sensor Telemetry) at *Raventrack Construction & Heavy Industry AI*. |
 | 🏢 **Co-Founder** | Architecting **secure, serverless, PIPEDA-compliant** cloud infrastructure at *Ordino Fintech*. |
-| 📖 **Research** | **Published Author** of "HyDRO-DDQN" (IEEE MVDA 2025); researching DAG task models, PPO, Transformer prediction and edge-cloud energy reduction in EdgeCloudIoT. |
+| 📖 **Research** | **Published Author** of "Improving QoS for VM Allocation in Multi-Cloud Environment." (IEEE MVDA 2025); Researching DAG task models, PPO, Transformer prediction and edge-cloud energy reduction in EdgeCloudIoT. |
 | 👨‍🏫 **Teaching** | Graduate-level instruction on **Network Defense, Threat Modeling, and CS Fundamentals**. |
 
 ---
@@ -34,18 +34,7 @@ I am a **Computer Science graduate (Honours, 4.0 GPA)** specializing in **Artifi
 
 ### 🏆 Selected Highlights
 
-* **HyDRO-DDQN (IEEE Publication):** Engineered a deterministic rule-based module combined with a DDQN RL agent to guarantee strict operational deadlines for critical IoT traffic.
+* **(IEEE Publication):Improving QoS for VM Allocation in Multi-Cloud Environment.** https://ieeexplore.ieee.org/abstract/document/11126564 
 * **Algoma CS Society (ALCOMS) President:** Led 45 executives and 200+ members, spearheading hackathons and lectures for 3,000+ students.
 * **Raspberry Pi "Circuit Revival":** Demonstrated running private, offline LLMs on sub-$100 hardware using Ollama and 4-bit quantization (Zero cloud dependency).
 
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvi-5&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvi-5&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Yuvi-5&icon=0&color=0" alt="visitor count"/>
-</div>
