@@ -35,6 +35,6 @@ I am a **Computer Science graduate (Honours, 4.0 GPA)** specializing in **Artifi
 ### 🏆 Selected Highlights
 
 * **(IEEE Publication):Improving QoS for VM Allocation in Multi-Cloud Environment.** https://ieeexplore.ieee.org/abstract/document/11126564 
-* **Algoma CS Society (ALCOMS) President:** Led 45 executives and 200+ members, spearheading hackathons and lectures for 3,000+ students.
+* **Algoma CS Society (ALCOMS) President:** Led 45 executives and 200+ members, spearheading hackathons and lectures for 3,000+ students. https://alcoms.ca/
 * **Raspberry Pi "Circuit Revival":** Demonstrated running private, offline LLMs on sub-$100 hardware using Ollama and 4-bit quantization (Zero cloud dependency).
 
